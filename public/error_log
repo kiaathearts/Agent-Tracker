@@ -1,0 +1,96 @@
+[05-Apr-2016 12:49:53 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:49:53 UTC] PHP Stack trace:
+[05-Apr-2016 12:49:53 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:49:53 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:49:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:49:53 UTC] PHP Stack trace:
+[05-Apr-2016 12:49:53 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:49:53 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:49:57 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:49:57 UTC] PHP Stack trace:
+[05-Apr-2016 12:49:57 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:49:57 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:49:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:49:57 UTC] PHP Stack trace:
+[05-Apr-2016 12:49:57 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:49:57 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:50:01 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:50:01 UTC] PHP Stack trace:
+[05-Apr-2016 12:50:01 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:50:01 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:50:01 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:50:01 UTC] PHP Stack trace:
+[05-Apr-2016 12:50:01 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:50:01 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:50:07 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:50:07 UTC] PHP Stack trace:
+[05-Apr-2016 12:50:07 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:50:07 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:50:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:50:07 UTC] PHP Stack trace:
+[05-Apr-2016 12:50:07 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:50:07 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:54:25 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:54:25 UTC] PHP Stack trace:
+[05-Apr-2016 12:54:26 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:54:26 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:54:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:54:26 UTC] PHP Stack trace:
+[05-Apr-2016 12:54:26 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:54:26 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:58:21 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:58:21 UTC] PHP Stack trace:
+[05-Apr-2016 12:58:21 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:58:21 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:58:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:58:21 UTC] PHP Stack trace:
+[05-Apr-2016 12:58:21 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:58:21 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:58:26 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:58:26 UTC] PHP Stack trace:
+[05-Apr-2016 12:58:26 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:58:26 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 12:58:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 12:58:26 UTC] PHP Stack trace:
+[05-Apr-2016 12:58:26 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 12:58:26 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:00:03 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:00:03 UTC] PHP Stack trace:
+[05-Apr-2016 13:00:03 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:00:03 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:00:03 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:00:03 UTC] PHP Stack trace:
+[05-Apr-2016 13:00:03 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:00:03 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:00:08 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:00:08 UTC] PHP Stack trace:
+[05-Apr-2016 13:00:08 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:00:08 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:00:08 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:00:08 UTC] PHP Stack trace:
+[05-Apr-2016 13:00:08 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:00:08 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:01:46 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:01:46 UTC] PHP Stack trace:
+[05-Apr-2016 13:01:46 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:01:46 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:01:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:01:46 UTC] PHP Stack trace:
+[05-Apr-2016 13:01:46 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:01:46 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:01:52 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:01:52 UTC] PHP Stack trace:
+[05-Apr-2016 13:01:52 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:01:52 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:01:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:01:52 UTC] PHP Stack trace:
+[05-Apr-2016 13:01:52 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:01:52 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:33:01 UTC] PHP Warning:  require(/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:33:01 UTC] PHP Stack trace:
+[05-Apr-2016 13:33:01 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:33:01 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22
+[05-Apr-2016 13:33:01 UTC] PHP Fatal error:  require(): Failed opening required '/home/nevramind/public_html/agenttracker/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/nevramind/public_html/agenttracker/bootstrap/autoload.php on line 17
+[05-Apr-2016 13:33:01 UTC] PHP Stack trace:
+[05-Apr-2016 13:33:01 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/public/index.php:0
+[05-Apr-2016 13:33:01 UTC] PHP   2. require() /home/nevramind/public_html/agenttracker/public/index.php:22

@@ -1,0 +1,16 @@
+[05-Apr-2016 14:43:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/nevramind/public_html/agenttracker/database/migrations/2016_04_05_143747_add_agenttype_foreign_key_to_agent_table.php on line 20
+[05-Apr-2016 14:43:48 UTC] PHP Stack trace:
+[05-Apr-2016 14:43:48 UTC] PHP   1. {main}() /home/nevramind/public_html/agenttracker/artisan:0
+[05-Apr-2016 14:43:48 UTC] PHP   2. Illuminate\Foundation\Console\Kernel->handle() /home/nevramind/public_html/agenttracker/artisan:36
+[05-Apr-2016 14:43:48 UTC] PHP   3. Symfony\Component\Console\Application->run() /home/nevramind/public_html/agenttracker/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:107
+[05-Apr-2016 14:43:48 UTC] PHP   4. Symfony\Component\Console\Application->doRun() /home/nevramind/public_html/agenttracker/vendor/symfony/console/Application.php:117
+[05-Apr-2016 14:43:48 UTC] PHP   5. Symfony\Component\Console\Application->doRunCommand() /home/nevramind/public_html/agenttracker/vendor/symfony/console/Application.php:186
+[05-Apr-2016 14:43:48 UTC] PHP   6. Illuminate\Console\Command->run() /home/nevramind/public_html/agenttracker/vendor/symfony/console/Application.php:791
+[05-Apr-2016 14:43:48 UTC] PHP   7. Symfony\Component\Console\Command\Command->run() /home/nevramind/public_html/agenttracker/vendor/laravel/framework/src/Illuminate/Console/Command.php:155
+[05-Apr-2016 14:43:48 UTC] PHP   8. Illuminate\Console\Command->execute() /home/nevramind/public_html/agenttracker/vendor/symfony/console/Command/Command.php:256
+[05-Apr-2016 14:43:48 UTC] PHP   9. Illuminate\Container\Container->call() /home/nevramind/public_html/agenttracker/vendor/laravel/framework/src/Illuminate/Console/Command.php:169
+[05-Apr-2016 14:43:48 UTC] PHP  10. call_user_func_array:{/home/nevramind/public_html/agenttracker/vendor/laravel/framework/src/Illuminate/Container/Container.php:507}() /home/nevramind/public_html/agenttracker/vendor/laravel/framework/src/Illuminate/Container/Container.php:507
+[05-Apr-2016 14:43:48 UTC] PHP  11. Illuminate\Database\Console\Migrations\MigrateCommand->fire() /home/nevramind/public_html/agenttracker/vendor/laravel/framework/src/Illuminate/Container/Container.php:507
+[05-Apr-2016 14:43:48 UTC] PHP  12. Illuminate\Database\Migrations\Migrator->run() /home/nevramind/public_html/agenttracker/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/MigrateCommand.php:77
+[05-Apr-2016 14:43:48 UTC] PHP  13. Illuminate\Database\Migrations\Migrator->requireFiles() /home/nevramind/public_html/agenttracker/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php:84
+[05-Apr-2016 14:43:48 UTC] PHP  14. Illuminate\Filesystem\Filesystem->requireOnce() /home/nevramind/public_html/agenttracker/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php:283
